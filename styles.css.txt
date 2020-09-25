@@ -1,0 +1,26 @@
+table, tr, td {
+border: 1px solid green;
+border-collapse: collapse;
+padding: 10px;
+
+
+}
+
+th{
+color: white;
+border: 1px solid white;
+background-color: green;
+padding: 10px;
+
+
+
+}
+
+ div {
+color:white;
+background-color:green;
+border: 1px solid white;
+
+
+
+}

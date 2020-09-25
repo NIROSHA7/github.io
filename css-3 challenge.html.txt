@@ -1,0 +1,69 @@
+<html>
+  <head> CSS 3 CHALLENGE </head>
+<link rel="stylesheet" type="text/css" href="styles.css/>
+
+<table>
+<tr>
+  <th>Name</th>
+  <th>Age</th>
+  <th>Location</th>
+  </tr>
+
+
+<tr>
+<td> Carmen</td>
+  <td> 33 years old</td>
+  <td> Spain </td>
+  </tr>
+<tr>
+  <td>Michelle</td>
+  <td> 26 years old</td>
+  <td> United States</td>
+  </tr>
+  <tr>
+<td> Nirosha</td>
+  <td> 28 years old</td>
+  <td> malaysia </td>
+  </tr>
+  </table>
+<br>
+<br>
+<br>
+
+
+<table>
+<tr>
+<div>
+  <th>Company</th>
+  <th>Contact</th>
+  <th>Country</th>
+  </tr>
+</div>
+
+  
+
+
+<tr>
+<td> ABC Sdn Bhd</td>
+  <td> 01023456789</td>
+  <td><center> MY </td>
+  </tr>
+<tr>
+  <td>FunnyGuy Enterprise</td>
+  <td> 01922348765</td>
+  <td><center> SG</td>
+  </tr>
+  <tr>
+<td> Let's Go Home Furniture LLP</td>
+  <td> 0176674554</td>
+    <td> <center>MY</center> </td>
+  </tr>  
+
+
+
+
+  
+  </table>
+
+</body>
+</html>
